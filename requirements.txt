@@ -7,3 +7,4 @@ PyPDF2
 cryptography
 prompt_toolkit
 tqdm
+rich
